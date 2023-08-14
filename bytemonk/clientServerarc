@@ -1,0 +1,12 @@
+In client server architecture client request services or resources from servers, which respond to these requests and provide the necessary functionality or data
+
+A server is the one who provides requested services.
+Clients are the ones who request services.
+
+
+
+The user enters the uniform resource locator (URL) of the website or file and the browser sends a request to the domain name system (DNS) server.
+DNS server is responsible for searching and retrieving the IP address associated with a web server and then initiating actions using that IP address.
+After the DNS server responds, the browser sends over an HTTP or HTTPS request to the web server’s IP, which was provided by the DNS server.
+Following the request, the server proceeds to transmit the essential website files required.
+Ultimately, the files are processed by the browser and the website is subsequently presented for viewing.

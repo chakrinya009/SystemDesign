@@ -1,0 +1,15 @@
+A distributed system is a network of computers or nodes that work together to solve a problem or perform a task. Instead of relying on a single powerful computer, a distributed system spreads the workload across multiple computers to improve performance, reliability, and scalability.
+
+Think of a distributed system as a team of individuals working on a project together. Each person has their own skills and resources, and they collaborate to accomplish a common goal. Similarly, in a distributed system, each computer or node has its own processing power, memory, and storage, and they work together to solve complex problems or handle large-scale tasks.
+
+Distributed systems have several benefits. First, they can handle large amounts of data and complex computations by distributing the workload across multiple nodes, making them more efficient and faster than a single machine. Second, they offer fault tolerance and high availability because if one node fails, the others can continue the work without disruption. Lastly, they can scale easily by adding more nodes to the system as the demand for resources or performance increases.
+
+Common examples of distributed systems include cloud computing platforms, where multiple servers work together to provide services like storage, processing power, and application hosting. Distributed databases, content delivery networks (CDNs), and peer-to-peer file sharing systems are other examples.
+
+In essence, a distributed system is like a team of computers collaborating to achieve a common goal, leveraging their individual strengths to solve problems more effectively, handle large-scale tasks, and provide reliable and scalable services.
+
+Distributed Systems: On the other hand, distributed systems focus on dividing the workload and responsibilities across multiple computers or nodes. In a distributed system, tasks or computations are distributed among the nodes, and they collaborate and communicate to achieve a common goal. The purpose of a distributed system is to enhance fault tolerance, improve reliability, and provide scalability by leveraging the combined processing power and resources of multiple machines.
+
+While horizontal scaling can be used as a technique to achieve scalability in a distributed system, the primary aim of a distributed system is not just to scale horizontally. Distributed systems emphasize the division of responsibilities and coordination among nodes to accomplish tasks efficiently, improve fault tolerance, and enable parallel processing.
+
+In summary, horizontal scaling is a technique used to scale a system by adding more machines to handle increased workload or user demands. Distributed systems, on the other hand, focus on dividing tasks and responsibilities across multiple nodes to improve fault tolerance, reliability, and achieve parallel processing. 
